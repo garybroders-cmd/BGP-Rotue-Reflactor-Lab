@@ -2,7 +2,7 @@
 
 Verification on vIOS1 & VIOS2
 
-<b>show ip ospf neighbor</n>
+show ip ospf neighbor<br>
 show ip bgp summary
 show ip bgp neighbors 10.255.0.3 | include Reflector
 
