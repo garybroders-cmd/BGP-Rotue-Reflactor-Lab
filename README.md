@@ -1,4 +1,4 @@
-# BGP-Rotue-Reflactor-Lab
+# BGP-Rotue-Reflector-Lab
 
 Verification on vIOS1 & VIOS2
 
